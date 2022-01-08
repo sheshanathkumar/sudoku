@@ -1,7 +1,7 @@
 # Sudoku
 
-![java](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)      ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![node](
-https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white`) ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![java](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![node](
+https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white`) ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 <br/>
 ## Introduction
 Sudoku is a puzzle that has enjoyed worldwide popularity since 2005. To solve a Sudoku puzzle, one needs to use a combination of logic and trial-and-error. More math is involved behind the scenes: combinatorics used in counting valid Sudoku grids, group theory used to describe ideas of when two grids are equivalent, and computational complexity with regards to solving Sudokus.
