@@ -1,0 +1,32 @@
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#puzzle {
+  width: 630px;
+  height: 630px;
+}
+
+#puzzle input {
+  width: 70px;
+  height: 70px;
+  box-sizing: border-box;
+  border-spacing: 2;
+  border: 1px black solid;
+  background-color: #a0e8dd;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+}
+
+button {
+  margin-top: 20px;
+  line-height: 60px;
+  font-weight: bolder;
+  font-size: 30px;
+  padding: 0 40px;
+  background: salmon;
+  border: none;
+}
